@@ -1,6 +1,6 @@
 opencv-python
 numpy
-tensorflow
+tensorflow-cpu
 scikit-learn
 keras-facenet
 pickle-mixin
